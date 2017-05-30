@@ -45,3 +45,6 @@ F:\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
 F:\Coursework\Coursework\bin\Debug\Coursework.exe
 F:\Coursework\Coursework\bin\Debug\Coursework.pdb
 D:\Xoma\!Education\Prog\Si-Sharp\Coursework\Coursework\obj\Debug\Coursework.leaderboard.resources
+D:\Xoma\!Education\Prog\Si-Sharp\Coursework\Coursework-NUWM-AM21\Coursework\bin\Debug\Coursework.exe.config
+D:\Xoma\!Education\Prog\Si-Sharp\Coursework\Coursework-NUWM-AM21\Coursework\obj\Debug\Coursework.exe
+D:\Xoma\!Education\Prog\Si-Sharp\Coursework\Coursework-NUWM-AM21\Coursework\obj\Debug\Coursework.pdb
