@@ -1,2 +1,2 @@
 # Coursework-NUWM-AM21
-Tiny action-auest game.
+Tiny action-quest game.
